@@ -20,5 +20,6 @@ Modelos a probar:
 - Árbol de decisión.
 - Bosque aleatorio.
 - Regresión logistica.
+- Clasificador de referencia
 
 ### **Gracias por revisar mi repositorio**
