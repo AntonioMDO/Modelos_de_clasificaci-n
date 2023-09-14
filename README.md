@@ -4,7 +4,7 @@
 ![Machine learning](https://github.com/AntonioMDO/Modelos_de_clasificacion/blob/main/img/Machine-Learning.jpg)
 
 ### **Breve descripción:** 🖥️
-Con machine learning utilizar modelos de clasificación con entrenamiento, testeo y validación.
+Con machine learning, crear modelos de clasificación con entrenamiento, testeo y validación.
 
 ### **Librerias utlizadas:** 📚
 #### **Principales:**
