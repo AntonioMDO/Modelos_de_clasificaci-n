@@ -22,4 +22,4 @@ Modelos a probar:
 - Regresión logistica.
 - Clasificador de referencia
 
-### **Gracias por revisar mi repositorio**
+### **Gracias por revisar mi repositorio**.
