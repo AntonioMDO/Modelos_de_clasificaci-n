@@ -3,7 +3,7 @@
 ## **Modelos de Clasificación (ML)**
 ![Machine learning](https://github.com/AntonioMDO/Modelos_de_clasificacion/blob/main/img/Machine-Learning.jpg)
 
-### **Breve descripción:** 🖥️
+### **Breve descripción:**
 Con machine learning, crear modelos de clasificación con entrenamiento, testeo y validación.
 
 ### **Librerias utlizadas:** 📚
@@ -19,7 +19,7 @@ Crear un modelo que pueda analizar el comportamiento de los clientes y recomenda
 Modelos a probar:
 - Árbol de decisión.
 - Bosque aleatorio.
-- Regresión logistica.
+- Regresión logística.
 - Clasificador de referencia
 
 ### **Gracias por revisar mi repositorio**.
