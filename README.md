@@ -20,6 +20,6 @@ Modelos a probar:
 - Árbol de decisión.
 - Bosque aleatorio.
 - Regresión logística.
-- Clasificador de referencia
+- Clasificador de referencia (prueba de cordura).
 
 ### **Gracias por revisar mi repositorio**.
